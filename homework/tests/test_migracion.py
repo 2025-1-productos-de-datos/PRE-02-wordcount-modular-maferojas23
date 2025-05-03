@@ -1,4 +1,5 @@
 import os
+import subprocess
 
 from ..src.wordcount import main
 
